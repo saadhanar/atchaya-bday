@@ -1,14 +1,4 @@
-/*
-Everybody say Happy Birthday! This gift is a compound of various pens plus some other things I added
-- gift 
-https://codepen.io/ElaineXu/pen/EWvGWX
-- neon 
-https://codepen.io/markheggan/pen/LjrVYN
-- fireworks 
-https://codepen.io/chuongdang/pen/yzpDG
-- moon 
-https://codepen.io/agelber/pen/sjIKp
-*/
+
 window.requestAnimFrame = function () {
   return window.requestAnimationFrame ||
   window.webkitRequestAnimationFrame ||
